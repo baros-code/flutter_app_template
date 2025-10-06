@@ -1,3 +1,3 @@
 # flutter_app_template
 
-A new Flutter project.
+A template that eases the process of starting to work on a new project with Flutter.
